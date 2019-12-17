@@ -22,7 +22,8 @@ def predict_next_word(string, verbose=True, NUMBER_OF_PREDICTIONS=1):
         if verbose:
             print('\nindexes of last ', CONFIG.number_of_words, 'words\t:',
                   idx[-CONFIG.number_of_words:])
-        prediction = model.predict([[idx[-CONFIG.number_of_words:]]])
+
+        prediction = model.predict([idx[-CONFIG.number_of_words:]]])
 
         best_predictions = []
 

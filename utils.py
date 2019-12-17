@@ -13,7 +13,7 @@ def load_dictionary(path):
 
 
 def read_words(filename):
-    with tf.gfile.GFile(filename, 'r') as f:
+    with tf.io.gfile.GFile(filename, 'r') as f:
         return f.read().replace('\n', '<eos>').split()
 
 

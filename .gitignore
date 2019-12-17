@@ -17,3 +17,5 @@ web/dist/vendors~tensorflow.bundle.js
 
 web/firebase-debug.log
 web/.firebase
+
+.idea/
