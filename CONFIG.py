@@ -1,5 +1,5 @@
 number_of_words = 3
-batch_size = 200
+batch_size = 150
 hidden_size = 1500
 num_epochs = 80
 learning_rate = 0.001
