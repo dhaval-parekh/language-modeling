@@ -64,7 +64,7 @@ prediction indexes      : [92, 1, 2645, 1491, 189, 1762, 207, 362, 2261, 1727]
 or by converting the model to tensorflow js model by running :
 
 ```powershell
-tensorflowjs_converter --input_format=keras /model/model.h5 /web/dist/web_model
+tensorflowjs_converter --input_format=keras ./model/model.h5 ./web/dist/web_model
 ```
 
 Then Read the [README.md](https://github.com/rajveermalviya/language-modeling/blob/master/web/README.md) in `/web` directory
