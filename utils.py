@@ -2,6 +2,7 @@ import collections
 import json
 import os
 
+import CONFIG
 import numpy as np
 import tensorflow as tf
 
@@ -35,8 +36,8 @@ def file_to_word_ids(filename, word_to_id):
 
 
 def load_data():
-    train_path = os.path.join(data_path, 'ptb.train.txt')
-    valid_path = os.path.join(data_path, 'ptb.valid.txt')
+    train_path = os.path.join(data_path, CONFIG.train_data_file)
+    valid_path = os.path.join(data_path, CONFIG.valid_data_file)
 
     word_to_id = build_vocab(train_path)
     train_data = file_to_word_ids(train_path, word_to_id)

@@ -18,4 +18,7 @@ web/dist/vendors~tensorflow.bundle.js
 web/firebase-debug.log
 web/.firebase
 
+data/train-wp-content.txt
+data/valid-wp-content.txt
+
 .idea/
