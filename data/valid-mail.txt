@@ -1,0 +1,47 @@
+hope you had a good weekend.
+
+I just finished sync up meeting with all Consultant-company stakeholders for the Client-company the project including Nitun, Divyaraj, Dhaval, Vivek, and Maitreyie.  All of them are in CC to maintain transparency in communication.
+
+My goal for the meeting was to understand the current project status and to find out where things have drifted. I also went through the signed project proposal, email communication, and Zoom/Phone recordings. I do believe that communication from Consultant-company should have been more empathetic in some case and I apologize for our failure to give you the best possible experience.
+
+Having said that, I also want to express that my team heavily felt that communication from Client-company end too has been outside professional lines. I myself saw recording where Client-company leadership was shouting at the Consultant-company team and even asked to stay awake the whole night this Friday. As an organization, Consultant-company is committed to its employees as much as it is committed to its clients for certain experiences.
+
+At the end of our internal assessment, we believe that it would be best for us to part ways but in a way that will help Client-company meet its launch goal.
+
+So below is our plans for three critical things:
+
+    Going Live
+    Post Launch 30-Days Support
+    Handover to another agency/Client-company team
+
+Going Live
+My team is confident that we are ready for the launch with seven “Go Live Blocker” as per the spreadsheet discussed last week that are already solved, please refer to the latest comments on the respective Jira tickets.
+
+Moving forward, the following are pending actionable items for launch:
+
+    Client-company to inform the VIP team for the launch date in advance to check for their availability on the launch date.
+    Client-company to change TTL 24 hours prior to the launch window
+    Client-company to freeze content by 7 pm PST on the day before the launch date. Everyone from Client-company team needs to log out from current Webvision CMS
+    Consultant-company to perform final delta migration of content handover to the VIP team on the launch date itself.
+    Client-company to make somebody available to change the IP address during launch.
+
+As you can see, only one item from the above list needs to be performed by Consultant-company. Tasks like changing TTL and IP address require access to Client-company’s domain name server which Consultant-company doesn’t have.
+Besides when Consultant-company offered to do these things, our request was rejected and we were clearly told Client-company will do it itself.  This Client-company’s stance is quite normal as the domain name server is a highly sensitive area and very few clients allow their vendors to touch it.
+
+With the above clarity, next, we need to decide the launch date to move things forward. Aligning with VIP’s Monday to Thursday preferred time window, Consultant-company is available on these days until 10 AM PDT for the launch.
+
+During the launch window, Consultant-company will be available via a Zoom call.
+
+Please understand that Consultant-company’s responsibility in the launch process ends at VIP’s door by giving them all source code and data. The ability to flip the launch switch rests with the VIP. The ability to change the IP address — the final requirement for the launch process — rests with Consultant-company.
+
+Post Launch 30-Days Support
+After the launch, Consultant-company will provide 30-days support that will include fixing any bugs and/or helping the Client-company team get up to speed.
+
+During the support window, Consultant-company will prefer to discuss issues via Jira tickets.
+
+Handover to another agency/Client-company team
+When we started working together, we believed that we can support the Client-company’s vision “to create stories that defy convention, change perspectives and ignite ideas” with our mission “to empower people through beautiful and robust solutions”.
+
+We are still committed to your success with WordPress and we are open to performing handover to your next partner agency or internal team anytime you choose. I understand finding a good agency partner is hard, so please take your time. Whenever your new team/agency will be ready, just let us know and we would be happy to get on a call with them to do the project’s knowledge transfer with all the right documentation.
+
+Regards.

@@ -21,4 +21,7 @@ web/.firebase
 data/train-wp-content.txt
 data/valid-wp-content.txt
 
+data/train-mail.txt
+data/valid-mail.txt
+
 .idea/
