@@ -25,3 +25,4 @@ data/train-mail.txt
 data/valid-mail.txt
 
 .idea/
+venv/
